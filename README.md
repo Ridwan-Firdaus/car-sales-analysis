@@ -39,4 +39,4 @@ Proyek ini bertujuan untuk menganalisis data penjualan mobil di Amerika Serikat 
 ## Tools yang digunakan
 - Python (pandas, matplotlib, seaborn)
 - Jupyter Notebook
-- Dataset digunakan dalam file: `Car_Sales.csv`
+- Dataset digunakan dalam file: `Car Sales.csv`
